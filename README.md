@@ -9,4 +9,4 @@ Welcome to my Simon Game project. It's a Frontend project supported by CSS, HTML
 
 Play the game for fun. :)
 
-https://ivyzayn.github.io/Simon-Game/
+https://yaruzeng.github.io/Simon-Game/
